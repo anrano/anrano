@@ -61,7 +61,6 @@ Soy **Antonio Rañó Ruiz**, un profesional con perfil híbrido entre el **desar
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo_ERP/CRM-714B67?style=flat-square&logo=odoo&logoColor=white)
 
 
 ---
@@ -73,11 +72,3 @@ Si quieres colaborar, tienes alguna propuesta o simplemente quieres conectar:
 - 📧 **Email:** [rano.ruiz.antonio@gmail.com](mailto:rano.ruiz.antonio@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/antonio-raño-ruiz](https://linkedin.com/in/antonio-raño-ruiz-5b217012a)
 - 🌐 **Portfolio:** [anrano.github.io](https://anrano.github.io/Portfolio/)
-
----
-
-<div align="center">
-
-⭐ * ¡Si este proyecto te ha resultado útil o inspirador, no dudes en dejar una estrella! :) *
-
-</div>
