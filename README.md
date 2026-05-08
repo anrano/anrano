@@ -13,26 +13,25 @@
 
 ---
 
-## Sobre mí
+## About Me
 
-Soy **Antonio Rañó Ruiz**, un profesional con perfil híbrido entre el **desarrollo de software** y el **análisis financiero**. Esta combinación me permite abordar proyectos técnicos con una visión orientada al negocio y a los datos.
+I am **Antonio Rañó Ruiz**, a professional with a hybrid profile combining **software development** and **financial analysis**. This combination allows me to approach technical projects with a business and data-driven mindset.
 
-- Desarrollo de aplicaciones web y software
-- Análisis financiero y modelado de datos
-- Orientado a soluciones eficientes y escalables
-
+- Web application and software development
+- Financial analysis and data modeling
+- Focused on efficient and scalable solutions
 
 ---
 
-## Tecnologías
+## Technologies
 
-**Programación**
+**Programming**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 
-**Desarrollo Web**
+**Web Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -44,16 +43,16 @@ Soy **Antonio Rañó Ruiz**, un profesional con perfil híbrido entre el **desar
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Bases de Datos**
+**Databases**
 ![Oracle](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Desarrollo Móvil**
+**Mobile Development**
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Arquitectura y Herramientas**
+**Architecture & Tools**
 ![MVC](https://img.shields.io/badge/MVC-Pattern-6C757D?style=flat-square&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -62,12 +61,11 @@ Soy **Antonio Rañó Ruiz**, un profesional con perfil híbrido entre el **desar
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white)
 
-
 ---
 
-## 📬 Contacto
+## 📬 Contact
 
-Si quieres colaborar, tienes alguna propuesta o simplemente quieres conectar:
+If you would like to collaborate, have a proposal, or simply want to connect:
 
 - 📧 **Email:** [rano.ruiz.antonio@gmail.com](mailto:rano.ruiz.antonio@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/antonio-raño-ruiz](https://linkedin.com/in/antonio-raño-ruiz-5b217012a)
