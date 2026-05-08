@@ -13,14 +13,6 @@
 
 ---
 
-## Sobre este repositorio
-
-Este repositorio contiene el **código fuente de mi portfolio personal**, desplegado con **GitHub Pages**. En él encontrarás una web donde muestro mi trayectoria profesional, mis proyectos de desarrollo de software y mis trabajos en el ámbito del análisis financiero.
-
-🔗 **Web en línea:** [anrano.github.io/Portfolio](https://anrano.github.io/Portfolio)
-
----
-
 ## Sobre mí
 
 Soy **Antonio Rañó Ruiz**, un profesional con perfil híbrido entre el **desarrollo de software** y el **análisis financiero**. Esta combinación me permite abordar proyectos técnicos con una visión orientada al negocio y a los datos.
