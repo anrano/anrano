@@ -70,3 +70,4 @@ If you would like to collaborate, have a proposal, or simply want to connect:
 - 📧 **Email:** [rano.ruiz.antonio@gmail.com](mailto:rano.ruiz.antonio@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/antonio-raño-ruiz](https://linkedin.com/in/antonio-raño-ruiz-5b217012a)
 - 🌐 **Portfolio:** [anrano.github.io](https://anrano.github.io/Portfolio/)
+- 📩 **Curriculum Vitae:** [anrano.github.io](https://anrano.github.io/CV/)
